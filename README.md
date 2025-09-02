@@ -24,6 +24,7 @@
 
 
 ###
-![Codewars Stats](https://codewars-stats-api.herokuapp.com/api/v1/users/neohrenimuj)
+![Codewars](https://github.r2v.ch/codewars?user=neohrenimyj&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 
+###
 ![Leetcode Stats](https://leetcard.jacoblin.cool/mnovouralsk?ext=heatmap)
