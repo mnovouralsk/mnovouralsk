@@ -22,12 +22,6 @@
 
 
 ###
-
-<br clear="both">
-
-![snake](output/snake.svg)
-
-###
 <p align="center">
   <a href="https://github.com/mnovouralsk">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mnovouralsk&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
@@ -38,7 +32,14 @@
 </p>
 </details>
 <br>
+###
 
+<br clear="both">
+
+![snake](output/snake.svg)
+
+###
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=mnovouralsk&theme=react-dark&hide_border=true&area=true)
 ###
 ![Codewars](https://github.r2v.ch/codewars?user=neohrenimyj&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 
