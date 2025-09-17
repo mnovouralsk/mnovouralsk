@@ -50,3 +50,13 @@
   &nbsp;&nbsp;
   <img src="https://leetcard.jacoblin.cool/mnovouralsk?ext=heatmap" alt="Leetcode Stats" />
 </div>
+
+###
+
+<h3 align="center">Try my code 🚀</h3>
+
+<div align="center">
+  <a href="https://replit.com/@user437010/hello-world" target="_blank">
+    <img src="https://img.shields.io/badge/Run%20on-Replit-orange?logo=replit&logoColor=white&style=for-the-badge" height="40" />
+  </a>
+</div>
