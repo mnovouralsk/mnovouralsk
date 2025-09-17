@@ -2,7 +2,7 @@
 
 ###
 
-![](https://github.com/mnovouralsk/mnovouralsk/blob/main/output/BruceLee.png)
+![](https://github.com/mnovouralsk/mnovouralsk/blob/main/output/mr_robot_header.jpg)
 
 ###
 
