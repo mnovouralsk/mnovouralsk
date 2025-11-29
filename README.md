@@ -16,7 +16,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00ff00&center=true&lines=We+Are+The+Signal+In+The+Noise;We+Are+The+Breach;We+Are+MNovouralsk;Expect+Us" />
 </p>
 ###
-<img src="https://readme-typing-svg.herokuapp.com?color=00ff00&size=22&width=600&lines=>_+Initializing...;>_+Access+Granted;>_+Welcome+mnovouralsk" />
+<p align="center">
+  <img src="https://media.tenor.com/2roX3uxz_4sAAAAd/hacker-hack.gif" width="400" />
+</p>
 
 ###
 
