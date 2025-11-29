@@ -12,7 +12,7 @@
 </div>
 
 ###
-![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
+![3D Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mnovouralsk&theme=react-dark&area=true&hide_border=true)
 
 ###
 
