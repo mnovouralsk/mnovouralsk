@@ -12,6 +12,9 @@
 </div>
 
 ###
+![3D Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mnovouralsk&theme=react-dark&area=true&hide_border=true)
+
+###
 
 <p align="center">
   <a href="https://github.com/mnovouralsk">
