@@ -12,7 +12,7 @@
 </div>
 
 ###
-![Stats](https://github-readme-stats.vercel.app/api?username=mnovouralsk&show_icons=true&theme=chartreuse-dark)
+<img src="https://readme-typing-svg.herokuapp.com?color=00ff00&center=true&lines=We+Are+Anonymous;We+Are+mnovouralsk;Expect+Us" />
 
 ###
 
