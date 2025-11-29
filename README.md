@@ -12,12 +12,11 @@
 </div>
 
 ###
-![Hack Banner](https://raw.githubusercontent.com/drknzz/GitHub-HackerBanner/master/hackbanner.svg)
+![terminal](https://github-readme-stats.vercel.app/api?username=mnovouralsk&theme=chartreuse-dark&show_icons=true)
 
 ###
 
 ###
-![Trophies](https://github-profile-trophy.vercel.app/?username=mnovouralsk&theme=algolia&no-bg=true&no-frame=true)
 
 ###
 
