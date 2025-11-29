@@ -13,7 +13,7 @@
 
 ###
 <div align="center">
-  <img src="https://terminal.justinpaulhammond.com/api/terminal?text=We%20Are%20Anonymous.%0AWe%20Are%20mnovouralsk.&style=hack&speed=25">
+  <img src="https://terminal.justinpaulhammond.com/api/terminal?text=Access%20Granted...%0AWelcome%20mnovouralsk&style=matrix&speed=20">
 </div>
 
 ###
