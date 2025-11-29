@@ -13,7 +13,7 @@
 
 ###
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ckandev/termynal/main/assets/demo.svg">
+  <img src="https://terminal.justinpaulhammond.com/api/terminal?text=We%20Are%20Anonymous.%0AWe%20Are%20mnovouralsk.&style=hack&speed=25">
 </div>
 
 ###
