@@ -12,7 +12,7 @@
 </div>
 
 ###
-![3D Cube Stats](https://github-contribution-chart.vercel.app/api?user=mnovouralsk)
+![Heatmap](https://github-contributions.vercel.app/api/render?user=mnovouralsk&format=svg&type=heat3d)
 
 ###
 
