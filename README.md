@@ -12,7 +12,7 @@
 </div>
 
 ###
-![Glitch](https://img.shields.io/badge/mnovouralsk-000000?style=plastic&logo=matrix&logoColor=green)
+![Hack Banner](https://raw.githubusercontent.com/drknzz/GitHub-HackerBanner/master/hackbanner.svg)
 
 ###
 
