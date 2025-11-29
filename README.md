@@ -12,13 +12,7 @@
 </div>
 
 ###
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mnovouralsk&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnovouralsk&layout=compact&theme=dark)
-
-</div>
-
+![Stats](https://github-readme-stats.vercel.app/api?username=mnovouralsk&show_icons=true&theme=chartreuse-dark)
 
 ###
 
