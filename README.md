@@ -12,7 +12,7 @@
 </div>
 
 ###
-![Heatmap](https://github-contributions.vercel.app/api/render?user=mnovouralsk&format=svg&type=heat3d)
+<img src="https://raw.githubusercontent.com/GeekyDevs/GlitchTextSVG/master/assets/glitch.svg" width="300">
 
 ###
 
