@@ -12,7 +12,7 @@
 </div>
 
 ###
-![3D Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mnovouralsk&theme=react-dark&area=true&hide_border=true)
+![3D Cube Stats](https://github-contribution-chart.vercel.app/api?user=mnovouralsk)
 
 ###
 
