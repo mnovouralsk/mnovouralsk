@@ -12,7 +12,7 @@
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/GeekyDevs/GlitchTextSVG/master/assets/glitch.svg" width="300">
+![Glitch](https://img.shields.io/badge/mnovouralsk-000000?style=plastic&logo=matrix&logoColor=green)
 
 ###
 
