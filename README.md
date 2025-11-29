@@ -12,10 +12,13 @@
 </div>
 
 ###
-<img src="https://readme-typing-svg.herokuapp.com?color=00ff00&center=true&lines=We+Are+Anonymous;We+Are+mnovouralsk;Expect+Us" />
-
+<img src="https://readme-typing-svg.herokuapp.com?color=00ff00&center=true&lines=We+Are+The+Signal+In+The+Noise;We+Are+The+Breach;We+Are+MNovouralsk;Expect+Us" />
 ###
-
+###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=We+Are+Anonymous;We+Are+Legion;We+Are+mnovouralsk;Expect+Us" />
+</p>
+###
 ###
 
 ###
