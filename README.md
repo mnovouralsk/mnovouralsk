@@ -12,7 +12,7 @@
 </div>
 
 ###
-![3D Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mnovouralsk&theme=react-dark&area=true&hide_border=true)
+![3D Calendar](https://raw.githubusercontent.com/LordDashMe/github-contribution-chart-stats/master/generated/overview.svg)
 
 ###
 
