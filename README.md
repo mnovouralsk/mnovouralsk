@@ -13,8 +13,12 @@
 
 ###
 <div align="center">
-  <img src="https://terminal.justinpaulhammond.com/api/terminal?text=Access%20Granted...%0AWelcome%20mnovouralsk&style=matrix&speed=20">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mnovouralsk&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnovouralsk&layout=compact&theme=dark)
+
 </div>
+
 
 ###
 
