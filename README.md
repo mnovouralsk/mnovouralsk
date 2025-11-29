@@ -12,7 +12,9 @@
 </div>
 
 ###
-![terminal](https://github-readme-stats.vercel.app/api?username=mnovouralsk&theme=chartreuse-dark&show_icons=true)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ckandev/termynal/main/assets/demo.svg">
+</div>
 
 ###
 
